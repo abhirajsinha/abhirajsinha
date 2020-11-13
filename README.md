@@ -5,5 +5,5 @@
 - 🤔 I’m looking for help with Techies
 - 💬 Ask me about ...
 - 📫 How to reach me: @https://www.linkedin.com/in/abhiraj-sinha-000546183/
-- 😄 Pronouns: His/Her
+- 😄 Pronouns: He/His
 - ⚡ Fun fact: Tech is incomplete without Music
