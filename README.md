@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Development, Data Structures
 - 👯 I’m looking to collaborate on Youtube
 - 🤔 I’m looking for help with Techies
-- 💬 Ask me about ...
+- 💬 Ask me about Coding or any tech related stuff.
 - 📫 How to reach me: @https://www.linkedin.com/in/abhiraj-sinha-000546183/
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Tech is incomplete without Music
