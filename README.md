@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **abhirajsinha25@gmail.com**
 
-- 📄 Know about my experiences [abhirajsinha.com](abhirajsinha.com)
+- 📄 Know about my experiences [https://abhirajsinha.github.io/Portfolio/]([abhirajsinha.com](https://abhirajsinha.github.io/Portfolio/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
