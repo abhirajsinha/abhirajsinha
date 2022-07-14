@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **abhirajsinha25@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1L6QUOhkz02uI9JURI68GAbW7EsSxzZlh/view](https://drive.google.com/file/d/1L6QUOhkz02uI9JURI68GAbW7EsSxzZlh/view)
+- 📄 Know about my experiences [abhirajsinha.com](abhirajsinha.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
