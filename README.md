@@ -59,7 +59,7 @@
 <a href="http://www.github.com/abhirajsinha"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhirajsinha&stroke=ffffff&background=171717&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ---
-<h2>🐍 &nbsp;See the Snake Eating my streaks 🥶</h2>
+<h2>🐍 &nbsp;See the Snake Eating my Streaks 🥶</h2>
 
 ![Snake animation](https://github.com/abhirajsinha/abhirajsinha/blob/output/github-contribution-grid-snake.svg)
 
