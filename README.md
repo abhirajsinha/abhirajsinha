@@ -1,26 +1,34 @@
-Hi 👋 My name is Abhiraj Sinha
-==============================
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
 
-Software Engineer
------------------
+<h1 align="center">
+  Let's Connect and have a Chat!💬
+</h1>
 
+<p align="center">
+<a href="https://abhirajsinha.github.io/Portfolio/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
+</a>
+<a href="https://www.linkedin.com/in/iabhirajsinha/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+</a>
+<a href="https://medium.com/@abhirajsinha25/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
+</a>
+<a href="https://twitter.com/abhirajsinha11">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
+</a>
+<a href="https://www.instagram.com/iabhirajsinha/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
+</p>
 
+<p align="center">
+  <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
+</p>
 
-<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
-
-   [**You like what you see? Nominate me for GitHub Stars!**](https://stars.github.com/nominate/)
-   
-   Programming made me fall in love with Web Development and building exciting products! I have a soft spot for technology ❤️
-
-* 🌍  I'm based in India
-* ✉️  You can contact me at [abhirajsinha25@gmail.com](mailto:abhirajsinha25@gmail.com)
-* 🧠  I'm learning React
-* 🤝  I'm open to collaborating on interesting projects
-* ⚡  I have a CS background, but most of the credit goes to Google, Youtube and Stack Overflow xD
-
-<a href="https://www.twitter.com/abhirajsinha11" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/abhirajsinha11?logo=twitter&style=for-the-badge&color=0891b2&labelColor=171717"
-/></a>
+---
 
 ### Skills
 
@@ -55,5 +63,10 @@ src="https://img.shields.io/twitter/follow/abhirajsinha11?logo=twitter&style=for
 
 <a href="http://www.github.com/abhirajsinha"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhirajsinha&stroke=ffffff&background=171717&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-### Github Commit Graph
+### Github Snake Animation
 ![Snake animation](https://github.com/abhirajsinha/abhirajsinha/blob/output/github-contribution-grid-snake.svg)
+
+
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
