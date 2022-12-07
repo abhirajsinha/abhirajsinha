@@ -53,7 +53,7 @@
 
 ---
 
-<h2 align='center'><i><a href="https://github.com/abhirajsinha/github-readme-activity-graph">Activity Graph 📈</i></h2>
+<h2 align='center'><a href="https://github.com/abhirajsinha/github-readme-activity-graph">Activity Graph 📈</h2>
 <p align="center">
 <a href="https://github.com/abhirajsinha/github-readme-activity-graph#gh-light-mode-only">
  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=abhirajsinha&theme=react&area=true&hide_border=true#gh-light-mode-only">
