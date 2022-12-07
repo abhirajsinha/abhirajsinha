@@ -53,6 +53,18 @@
 
 ---
 
+<h2 align='center'><i><a href="https://github.com/abhirajsinha/github-readme-activity-graph">Activity Graph 📈</i></h2>
+<p align="center">
+<a href="https://github.com/abhirajsinha/github-readme-activity-graph#gh-light-mode-only">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=abhirajsinha&theme=react&area=true&hide_border=true#gh-light-mode-only">
+</a>
+<a href="https://github.com/abhirajsinha/github-readme-activity-graph#gh-dark-mode-only">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=abhirajsinha&theme=dracula&area=true&hide_border=true#gh-dark-mode-only">
+</a>
+</p>
+
+---
+
 <h2> 📈 &nbsp;My GitHub History!</h2>
 <a href="http://www.github.com/abhirajsinha"><img src="https://github-readme-stats.vercel.app/api?username=abhirajsinha&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true" alt="Abhiraj Sinha's GitHub stats" /></a>
 
