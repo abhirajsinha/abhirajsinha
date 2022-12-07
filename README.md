@@ -30,7 +30,7 @@
 
 ---
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2calign='center'> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="45" height="45"/>          
@@ -65,13 +65,13 @@
 
 ---
 
-<h2> 📈 &nbsp;My GitHub History!</h2>
-<a href="http://www.github.com/abhirajsinha"><img src="https://github-readme-stats.vercel.app/api?username=abhirajsinha&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true" alt="Abhiraj Sinha's GitHub stats" /></a>
+<h2 align='center'> 📈 &nbsp;My GitHub History!</h2>
+ <p align='center'><a href="http://www.github.com/abhirajsinha"><img src="https://github-readme-stats.vercel.app/api?username=abhirajsinha&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true" alt="Abhiraj Sinha's GitHub stats" /></a></p>
 
-<a href="http://www.github.com/abhirajsinha"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhirajsinha&stroke=ffffff&background=171717&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p align='center'><a href="http://www.github.com/abhirajsinha"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhirajsinha&stroke=ffffff&background=171717&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></p>
 
 ---
-<h2>🐍 &nbsp;See the Snake Eating my Streaks 🥶</h2>
+<h2 align='center'>🐍 &nbsp;See the Snake Eating my Streaks 🥶</h2>
 
 ![Snake animation](https://github.com/abhirajsinha/abhirajsinha/blob/output/github-contribution-grid-snake.svg)
 
