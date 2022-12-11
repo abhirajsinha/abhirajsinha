@@ -61,7 +61,11 @@
  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=abhirajsinha&theme=dracula&area=true&hide_border=true#gh-dark-mode-only">
 </a>
 </p>
+  
 
+---
+### <h2 align='center'> 🚀 &nbsp;My Contributions in 3D Visualisation </h2>
+![](./profile-3d-contrib/profile-green-animate.svg)
 ---
 
 <h2 align='center'> 📈 &nbsp;My GitHub History!</h2>
