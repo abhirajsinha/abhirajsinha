@@ -64,7 +64,7 @@
   
 
 ---
-### <h2 align='center'> 🚀 &nbsp;My Contributions in 3D Visualisation </h2>
+### <h2 align='center'> 👨🏼‍💻 &nbsp;My Contributions in 3D Visualisation </h2>
 ![](./profile-3d-contrib/profile-green-animate.svg)
 ---
 
