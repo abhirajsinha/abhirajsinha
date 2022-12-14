@@ -73,6 +73,13 @@
 
 <p align='center'><a href="http://www.github.com/abhirajsinha"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhirajsinha&stroke=ffffff&background=171717&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></p>
 
+  
+<p align='center'>
+<a href="" target="_blank">
+    <img title="Abhiraj Sinha's LeetCode Stats" alt="Abhiraj Sinha's LeetCode Stats" src="https://leetcard.jacoblin.cool/abhirajsinha?ext=heatmap" />
+</a>
+</p>
+
 ---
 <h2 align='center'>🐍 &nbsp;See the Snake Eating my Streaks 🥶</h2>
 
