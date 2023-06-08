@@ -64,7 +64,7 @@
 
 ---
 ### <h2 align='center'> 👨🏼‍💻 &nbsp;My Contributions in 3D Visualisation </h2>
-![](./profile-3d-contrib/profile-gitblock.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
 ---
 
 <h2 align='center'> 📈 &nbsp;My GitHub & Leetcode History!</h2>
