@@ -75,10 +75,7 @@ Pure TypeScript, zero dependencies.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=abhirajsinha&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical&bg_color=00000000" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhirajsinha&layout=compact&langs_count=8&hide_border=true&theme=radical&bg_color=00000000" />
-
-<img src="https://streak-stats.demolab.com?user=abhirajsinha&theme=radical&hide_border=true&background=00000000" />
+<img src="./metrics.svg" alt="GitHub metrics" width="100%" />
 
 </div>
 
@@ -91,7 +88,7 @@ Pure TypeScript, zero dependencies.
   <img alt="contribution snake" src="https://raw.githubusercontent.com/abhirajsinha/abhirajsinha/output/github-snake.svg" />
 </picture>
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
+<img src="https://raw.githubusercontent.com/abhirajsinha/abhirajsinha/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
 
 </div>
 
