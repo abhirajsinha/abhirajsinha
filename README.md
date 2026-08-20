@@ -5,7 +5,7 @@
 <p>
   <a href="https://vyanaapp.com"><img src="https://img.shields.io/badge/Vyana-Private%20period%20tracker-E8457C?style=for-the-badge&logo=apple&logoColor=white" /></a>
   <a href="https://github.com/abhirajsinha/heatwave"><img src="https://img.shields.io/badge/Heatwave-AI%20code%20verification-FF6B35?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/abhirajsinha"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/iabhirajsinha"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:abhirajsinha25@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -70,14 +70,6 @@ Pure TypeScript, zero dependencies.
 </div>
 
 <br/>
-
-## 📊 Stats
-
-<div align="center">
-
-<img src="./metrics.svg" alt="GitHub metrics" width="100%" />
-
-</div>
 
 <br/>
 
