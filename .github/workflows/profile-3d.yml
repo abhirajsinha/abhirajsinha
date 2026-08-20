@@ -1,24 +1,22 @@
-name: GitHub-Profile-3D-Contrib
-
+name: Profile 3D contrib
 on:
-  schedule: # execute every 1 hour
+  schedule:
     - cron: "0 18 * * *"
   workflow_dispatch:
-
+permissions:
+  contents: write
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v2
-      - uses: yoshi389111/github-profile-3d-contrib@0.6.0
+      - uses: actions/checkout@v4
+      - uses: yoshi389111/github-profile-3d-contrib@0.8.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
-        run: |
-          git config user.name abhirajsinha
-          git config user.email abhirajsinha25@gmail.com
-          git add -A .
-          git commit -m "Added profile 3d view"
+      - run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A profile-3d-contrib
+          git diff --cached --quiet || git commit -m "chore: refresh 3D contrib"
           git push
