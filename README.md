@@ -32,10 +32,4 @@ It rewrites the page into clear spoken teaching, explains code instead of readin
 
 ## 🧰 Stack
 
-<img src="https://skillicons.dev/icons?i=ts,react,nodejs,postgres,prisma,supabase,docker,kotlin,swift,figma&perline=10" alt="TypeScript, React, Node, Postgres, Prisma, Supabase, Docker, Kotlin, Swift, Figma" />
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/abhirajsinha/abhirajsinha/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%" />
-
-<p align="center"><sub>Hyderabad, India · <a href="https://tryvaani.com">tryvaani.com</a> · <a href="https://vyanaapp.com">vyanaapp.com</a> · <a href="https://getomoi.com">getomoi.com</a></sub></p>
+<img src="https://skillicons.dev/icons?i=ts,react,nodejs,expressjs,mongodb,postgres,prisma,supabase,docker,kotlin,swift,figma&perline=10" alt="TypeScript, React, Node, Express, Mongodb, Postgres, Prisma, Supabase, Docker, Kotlin, Swift, Figma" />
