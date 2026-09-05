@@ -6,7 +6,7 @@
   <a href="mailto:abhirajsinha25@gmail.com">Email</a>
 </p>
 
-I'm a solo founder in Hyderabad. I design, build, ship and run every layer of my products myself: mobile, browser, backend, AI, and the pipeline that proves the work before it ships.
+I'm a solo founder in Hyderabad, India. I design, build, ship and run every layer of my products myself: mobile, browser, backend, AI, and the pipeline that proves the work before it ships.
 
 ## 🎧 Now building
 
