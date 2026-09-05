@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Abhiraj Sinha. I build products solo, end to end. Now building Vaani.">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B0F19"/><stop offset="1" stop-color="#141B2D"/></linearGradient>
+  <radialGradient id="glowA" cx="0.85" cy="0.4" r="0.5"><stop offset="0" stop-color="#7C3AED" stop-opacity="0.45"/><stop offset="1" stop-color="#7C3AED" stop-opacity="0"/></radialGradient>
+  <radialGradient id="glowB" cx="0.1" cy="1" r="0.5"><stop offset="0" stop-color="#E8457C" stop-opacity="0.35"/><stop offset="1" stop-color="#E8457C" stop-opacity="0"/></radialGradient>
+  <linearGradient id="bar" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#C4B5FD"/><stop offset="0.5" stop-color="#7C3AED"/><stop offset="1" stop-color="#E8457C"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#A78BFA"/><stop offset="1" stop-color="#F472B6"/></linearGradient>
+  <clipPath id="r"><rect width="1200" height="360" rx="24"/></clipPath>
+</defs>
+<g clip-path="url(#r)">
+  <rect width="1200" height="360" fill="url(#bg)"/>
+  <rect width="1200" height="360" fill="url(#glowA)"/>
+  <rect width="1200" height="360" fill="url(#glowB)"/>
+  <g opacity="0.06" stroke="#FFFFFF" stroke-width="1"><line x1="0" y1="0" x2="0" y2="360"/><line x1="60" y1="0" x2="60" y2="360"/><line x1="120" y1="0" x2="120" y2="360"/><line x1="180" y1="0" x2="180" y2="360"/><line x1="240" y1="0" x2="240" y2="360"/><line x1="300" y1="0" x2="300" y2="360"/><line x1="360" y1="0" x2="360" y2="360"/><line x1="420" y1="0" x2="420" y2="360"/><line x1="480" y1="0" x2="480" y2="360"/><line x1="540" y1="0" x2="540" y2="360"/><line x1="600" y1="0" x2="600" y2="360"/><line x1="660" y1="0" x2="660" y2="360"/><line x1="720" y1="0" x2="720" y2="360"/><line x1="780" y1="0" x2="780" y2="360"/><line x1="840" y1="0" x2="840" y2="360"/><line x1="900" y1="0" x2="900" y2="360"/><line x1="960" y1="0" x2="960" y2="360"/><line x1="1020" y1="0" x2="1020" y2="360"/><line x1="1080" y1="0" x2="1080" y2="360"/><line x1="1140" y1="0" x2="1140" y2="360"/><line x1="0" y1="0" x2="1200" y2="0"/><line x1="0" y1="60" x2="1200" y2="60"/><line x1="0" y1="120" x2="1200" y2="120"/><line x1="0" y1="180" x2="1200" y2="180"/><line x1="0" y1="240" x2="1200" y2="240"/><line x1="0" y1="300" x2="1200" y2="300"/></g>
+  <rect x="690" width="10" rx="5" fill="url(#bar)" y="166.0" height="28.0">
+  <animate attributeName="height" values="28.0;40.6;15.4;28.0" dur="1.40s" begin="-1.30s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+  <animate attributeName="y" values="166.0;159.7;172.3;166.0" dur="1.40s" begin="-1.30s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+</rect><rect x="709" width="10" rx="5" fill="url(#bar)" y="163.4" height="33.2">
+  <animate attributeName="height" values="33.2;48.2;18.3;33.2" dur="1.90s" begin="-0.73s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+  <animate attributeName="y" values="163.4;155.9;170.9;163.4" dur="1.90s" begin="-0.73s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+</rect><rect x="728" width="10" rx="5" fill="url(#bar)" y="159.7" height="40.6">
+  <animate attributeName="height" values="40.6;58.9;22.3;40.6" dur="1.86s" begin="-0.07s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+  <animate attributeName="y" values="159.7;150.6;168.8;159.7" dur="1.86s" begin="-0.07s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+</rect><rect x="747" width="10" rx="5" fill="url(#bar)" y="152.5" height="55.0">
+  <animate attributeName="height" values="55.0;79.8;30.3;55.0" dur="1.29s" begin="-0.18s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+  <animate attributeName="y" values="152.5;140.1;164.9;152.5" dur="1.29s" begin="-0.18s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+</rect><rect x="766" width="10" rx="5" fill="url(#bar)" y="147.0" height="66.0">
+  <animate attributeName="height" values="66.0;95.6;36.3;66.0" dur="2.27s" begin="-0.25s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+  <animate attributeName="y" values="147.0;132.2;161.9;147.0" dur="2.27s" begin="-0.25s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+</rect><rect x="785" width="10" rx="5" fill="url(#bar)" y="144.5" height="70.9">
+  <animate attributeName="height" values="70.9;102.8;39.0;70.9" dur="2.02s" begin="-1.90s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+  <animate attributeName="y" values="144.5;128.6;160.5;144.5" dur="2.02s" begin="-1.90s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+</rect><rect x="804" width="10" rx="5" fill="url(#bar)" y="133.7" height="92.6">
+  <animate attributeName="height" values="92.6;134.3;50.9;92.6" dur="1.72s" begin="-1.95s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+  <animate attributeName="y" values="133.7;112.8;154.5;133.7" dur="1.72s" begin="-1.95s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+</rect><rect x="823" width="10" rx="5" fill="url(#bar)" y="139.7" height="80.7">
+  <animate attributeName="height" values="80.7;117.0;44.4;80.7" dur="2.32s" begin="-0.58s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+  <animate attributeName="y" values="139.7;121.5;157.8;139.7" dur="2.32s" begin="-0.58s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+</rect><rect x="842" width="10" rx="5" fill="url(#bar)" y="134.4" height="91.2">
+  <animate attributeName="height" values="91.2;132.3;50.2;91.2" dur="1.35s" begin="-0.62s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+  <animate attributeName="y" values="134.4;113.9;154.9;134.4" dur="1.35s" begin="-0.62s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+</rect><rect x="861" width="10" rx="5" fill="url(#bar)" y="115.1" height="129.9">
+  <animate attributeName="height" values="129.9;188.3;71.4;129.9" dur="1.43s" begin="-1.16s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+  <animate attributeName="y" values="115.1;85.8;144.3;115.1" dur="1.43s" begin="-1.16s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+</rect><rect x="880" width="10" rx="5" fill="url(#bar)" y="117.1" height="125.8">
+  <animate attributeName="height" values="125.8;182.4;69.2;125.8" dur="1.68s" begin="-1.10s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+  <animate attributeName="y" values="117.1;88.8;145.4;117.1" dur="1.68s" begin="-1.10s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+</rect><rect x="899" width="10" rx="5" fill="url(#bar)" y="131.4" height="97.2">
+  <animate attributeName="height" values="97.2;140.9;53.4;97.2" dur="1.28s" begin="-0.41s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+  <animate attributeName="y" values="131.4;109.5;153.3;131.4" dur="1.28s" begin="-0.41s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+</rect><rect x="918" width="10" rx="5" fill="url(#bar)" y="114.8" height="130.4">
+  <animate attributeName="height" values="130.4;189.1;71.7;130.4" dur="1.76s" begin="-0.63s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+  <animate attributeName="y" values="114.8;85.4;144.1;114.8" dur="1.76s" begin="-0.63s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+</rect><rect x="937" width="10" rx="5" fill="url(#bar)" y="118.5" height="123.0">
+  <animate attributeName="height" values="123.0;178.3;67.6;123.0" dur="1.79s" begin="-0.60s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+  <animate attributeName="y" values="118.5;90.8;146.2;118.5" dur="1.79s" begin="-0.60s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+</rect><rect x="956" width="10" rx="5" fill="url(#bar)" y="115.6" height="128.8">
+  <animate attributeName="height" values="128.8;186.8;70.8;128.8" dur="2.11s" begin="-0.49s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+  <animate attributeName="y" values="115.6;86.6;144.6;115.6" dur="2.11s" begin="-0.49s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+</rect><rect x="975" width="10" rx="5" fill="url(#bar)" y="124.4" height="111.1">
+  <animate attributeName="height" values="111.1;161.1;61.1;111.1" dur="1.88s" begin="-1.75s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+  <animate attributeName="y" values="124.4;99.4;149.4;124.4" dur="1.88s" begin="-1.75s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+</rect><rect x="994" width="10" rx="5" fill="url(#bar)" y="125.5" height="109.0">
+  <animate attributeName="height" values="109.0;158.1;60.0;109.0" dur="1.57s" begin="-1.96s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+  <animate attributeName="y" values="125.5;101.0;150.0;125.5" dur="1.57s" begin="-1.96s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+</rect><rect x="1013" width="10" rx="5" fill="url(#bar)" y="141.9" height="76.1">
+  <animate attributeName="height" values="76.1;110.4;41.9;76.1" dur="1.74s" begin="-1.51s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+  <animate attributeName="y" values="141.9;124.8;159.1;141.9" dur="1.74s" begin="-1.51s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+</rect><rect x="1032" width="10" rx="5" fill="url(#bar)" y="145.6" height="68.8">
+  <animate attributeName="height" values="68.8;99.7;37.8;68.8" dur="1.84s" begin="-0.08s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+  <animate attributeName="y" values="145.6;130.1;161.1;145.6" dur="1.84s" begin="-0.08s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+</rect><rect x="1051" width="10" rx="5" fill="url(#bar)" y="144.2" height="71.6">
+  <animate attributeName="height" values="71.6;103.8;39.4;71.6" dur="2.19s" begin="-1.15s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+  <animate attributeName="y" values="144.2;128.1;160.3;144.2" dur="2.19s" begin="-1.15s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+</rect><rect x="1070" width="10" rx="5" fill="url(#bar)" y="148.9" height="62.2">
+  <animate attributeName="height" values="62.2;90.3;34.2;62.2" dur="1.61s" begin="-1.39s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+  <animate attributeName="y" values="148.9;134.9;162.9;148.9" dur="1.61s" begin="-1.39s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+</rect><rect x="1089" width="10" rx="5" fill="url(#bar)" y="157.1" height="45.9">
+  <animate attributeName="height" values="45.9;66.5;25.2;45.9" dur="1.95s" begin="-0.91s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+  <animate attributeName="y" values="157.1;146.7;167.4;157.1" dur="1.95s" begin="-0.91s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+</rect><rect x="1108" width="10" rx="5" fill="url(#bar)" y="161.8" height="36.3">
+  <animate attributeName="height" values="36.3;52.7;20.0;36.3" dur="2.43s" begin="-0.95s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+  <animate attributeName="y" values="161.8;153.7;170.0;161.8" dur="2.43s" begin="-0.95s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+</rect><rect x="1127" width="10" rx="5" fill="url(#bar)" y="166.0" height="28.0">
+  <animate attributeName="height" values="28.0;40.6;15.4;28.0" dur="1.28s" begin="-1.40s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+  <animate attributeName="y" values="166.0;159.7;172.3;166.0" dur="1.28s" begin="-1.40s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+</rect>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+    <text x="72" y="104" font-size="13" font-weight="600" letter-spacing="3.5" fill="#9CA3AF">HYDERABAD, INDIA  ·  SOLO FOUNDER</text>
+    <text x="72" y="172" font-size="64" font-weight="800" fill="#F9FAFB" letter-spacing="-1.5">Abhiraj Sinha</text>
+    <text x="72" y="216" font-size="25" font-weight="500" fill="url(#accent)">I build products solo, end to end.</text>
+    <g transform="translate(72,256)">
+      <rect width="152" height="30" rx="15" fill="#7C3AED" fill-opacity="0.22" stroke="#A78BFA" stroke-opacity="0.6"/>
+      <circle cx="18" cy="15" r="4" fill="#A78BFA"><animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/></circle>
+      <text x="30" y="20" font-size="12" font-weight="700" letter-spacing="2" fill="#DDD6FE">NOW BUILDING</text>
+      <text x="168" y="21" font-size="19" fill="#E5E7EB"><tspan font-weight="700" fill="#FFFFFF">Vaani</tspan>, a voice that explains any webpage in English, Hindi and Hinglish.</text>
+    </g>
+  </g>
+</g>
+</svg>
