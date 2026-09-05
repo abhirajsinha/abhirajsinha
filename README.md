@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=E8457C&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Abhiraj+Sinha;I+build+products+solo%2C+end+to+end;Building+Vyana%2C+Vaani+and+Omoi;Shipping+mobile+%2B+browser+%2B+backend+%2B+AI" alt="Abhiraj Sinha" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=E8457C&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Abhiraj+Sinha;I+build+products+solo%2C+end+to+end;Building+Vaani%2C+Vyana+and+Omoi;Shipping+browser+%2B+mobile+%2B+backend+%2B+AI" alt="Abhiraj Sinha" />
 
 <p>
-  <a href="https://vyanaapp.com"><img src="https://img.shields.io/badge/Vyana-Private%20period%20tracker-E8457C?style=for-the-badge&logo=apple&logoColor=white" /></a>
   <a href="https://tryvaani.com"><img src="https://img.shields.io/badge/Vaani-Any%20page%2C%20explained%20aloud-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://vyanaapp.com"><img src="https://img.shields.io/badge/Vyana-Private%20period%20tracker-E8457C?style=for-the-badge&logo=apple&logoColor=white" /></a>
   <a href="https://getomoi.com"><img src="https://img.shields.io/badge/Omoi-Private%20notes%20%2B%20AI%20memory-5E6AD2?style=for-the-badge&logo=obsidian&logoColor=white" /></a>
   <a href="https://github.com/abhirajsinha/heatwave"><img src="https://img.shields.io/badge/Heatwave-AI%20code%20verification-FF6B35?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/iabhirajsinha"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -17,27 +17,28 @@
 
 <br/>
 
-## 🩸 What I'm building
+## 🎧 What I'm building
 
-**[Vyana](https://vyanaapp.com)** is a private period tracker built for real cycles, not textbook ones.
-Irregular cycles first. Honest predictions with confidence bands instead of fake certainty. A report your doctor can actually read.
+**[Vaani](https://tryvaani.com)** is a Chrome extension that gives any webpage a voice that explains it, not just reads it.
+It rewrites the page into clear spoken teaching, explains code instead of reading symbols, and speaks English, Hindi and Hinglish on demand, with the words lighting up as it goes.
+Understanding, not narration. In beta.
 
 I own every layer solo:
 
 | Layer | What | Stack |
 |---|---|---|
-| 📱 App | iOS + Android, OTA updates | React Native, Expo, TypeScript |
-| ⚙️ Backend | 8 replica API, cycle engine, insights | Node, TypeScript, Prisma, Postgres |
-| 🧠 AI | Streaming chat over your own cycle data | Claude, SSE, guarded prompts |
-| 🚀 Ops | Staging first, gated ship pipeline | Railway, Supabase, EAS, Sentry |
+| 🧩 Extension | Manifest V3, in page player, word level highlighting, works across tab switches and reloads | TypeScript, Chrome APIs, Playwright in real Chrome |
+| ⚙️ Backend | Narration pipeline, shared audio cache, sign in, rate limits | Node, TypeScript, Postgres, Railway |
+| 🧠 AI | Claude rewrites the page into spoken teaching, streaming TTS with provider fallback, Sarvam for Indic voices | Claude, Azure OpenAI, Sarvam |
+| 🚀 Ops | Per provider spend caps, Heatwave gated ship pipeline, site on the edge | Railway, Cloudflare Pages, Playwright |
 
 <br/>
 
-## 🎧 Also building
+## 🩸 Also building
 
-**[Vaani](https://tryvaani.com)** is a Chrome extension that gives any webpage a voice that explains it, not just reads it.
-It rewrites the page into clear spoken teaching, explains code instead of reading symbols, and speaks English, Hindi and Hinglish on demand, with the words lighting up as it goes.
-Claude for the explanation, streaming TTS for the voice, Postgres cache in front of both. In beta.
+**[Vyana](https://vyanaapp.com)** is a private period tracker built for real cycles, not textbook ones.
+Irregular cycles first. Honest predictions with confidence bands instead of fake certainty. A report your doctor can actually read.
+iOS + Android with OTA updates, an 8 replica API, streaming chat over your own cycle data. Live on both stores.
 
 **[Omoi](https://getomoi.com)** is a private notes keeper with a biometric vault and a long term memory you can ask.
 Save anything important in seconds, find it again years later, and get cited answers from your own notes.
@@ -110,5 +111,5 @@ Pure TypeScript, zero dependencies.
 <br/>
 
 <div align="center">
-<sub>Hyderabad, India · building in public at <a href="https://vyanaapp.com">vyanaapp.com</a> · <a href="https://tryvaani.com">tryvaani.com</a> · <a href="https://getomoi.com">getomoi.com</a></sub>
+<sub>Hyderabad, India · building in public at <a href="https://tryvaani.com">tryvaani.com</a> · <a href="https://vyanaapp.com">vyanaapp.com</a> · <a href="https://getomoi.com">getomoi.com</a></sub>
 </div>
